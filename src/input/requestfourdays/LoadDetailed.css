@@ -1,0 +1,7 @@
+.more_detailed_data{
+    display: flex;
+    justify-content: center;
+    width: 800px;
+    height: 600px;
+    padding: 20px;
+}

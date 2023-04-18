@@ -1,0 +1,16 @@
+.load_more{
+    margin-top: 50px;
+    color: white;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container_load_more{
+    display: flex;
+    font-size: 22px;
+}
+
+.seperate_childs_day_1{
+    margin-top: 40px;
+    margin: 40px;
+}
